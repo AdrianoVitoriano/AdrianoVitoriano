@@ -23,15 +23,15 @@ Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender c
 <h2 align="center"> GitHub Stats </h2> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianoVitoriano&show_icons=true&theme=merko" width="500em" alt="Adriano's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoVitoriano&layout=compact&theme=merko" width="450em" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianoVitoriano&show_icons=true&theme=merko" width="400em" alt="Adriano's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoVitoriano&layout=compact&theme=merko" width="350em" alt="Top Languages" />
 </div>
 
 <h2 align="center"> Projetos em Destaque </h2> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoVitoriano&repo=PI-Pastelaria-2024-01&theme=merko" width="500em" alt="Card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoVitoriano&repo=PI-Pastelaria-2024-01&theme=merko" width="500em" alt="Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoVitoriano&repo=PI-Pastelaria-2024-01&theme=merko" width="400em" alt="Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoVitoriano&repo=PI-Pastelaria-2024-01&theme=merko" width="400em" alt="Card" />
 </div>
 
 <!--START_SECTION:activity
@@ -45,13 +45,13 @@ END_SECTION:activity-->
 <h2 align="center"> Contribuições Recentes </h2> 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianoVitoriano&theme=merko" width="500em" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianoVitoriano&theme=merko" width="400em" alt="GitHub Streak" />
 </div>
-
+<!--
 <div align="center">
   <img src="https://metrics.lecoq.io/AdrianoVitoriano" width="500em" alt="Metricas">
 </div>
-
+-->
 <h2 align="center"> Visitantes </h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/{AdrianoVitoriano}/count.svg" width="200em" alt="Visitor Count">
